@@ -31,7 +31,8 @@ Files
 `gsm_v5_1_mex.mexa64`  - Mex binary for Linux  
 `makeit.m`             - Script to compile the Mex binary  
  
-`./evaluation`  - Code for evaluating the numerical accuracy and running times.  
+`./evaluation`         - Code for evaluating the numerical accuracy and running times.  
+`./fast_math_binaries` - Mex binaries, compiled with the `fast-math` flag. Not used by default.
  
 Evaluation of numerical accuracy and running times
 --------------------------------------------------
